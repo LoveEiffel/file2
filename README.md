@@ -7,6 +7,6 @@
     <title>Eiffel Kulesi</title>
 </head>
 <body>
-    <a href="Özür.html"> <img src="_3.png" width="1600" height="770" title="I love ELİF :)" alt="I love ElİF :)"> </a>
+  <h1>selM</h1>
 </body>
 </html>
